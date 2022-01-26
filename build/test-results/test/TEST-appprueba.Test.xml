@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="appprueba.Test" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-01-26T18:52:06" hostname="julio-Kubuntu" time="0.349">
+  <properties/>
+  <testcase name="El get devuelve ok" classname="appprueba.Test" time="0.349">
+    <failure message="Condition not satisfied:&#10;&#10;!esNulo&#10;||&#10;|true&#10;false&#10;" type="org.spockframework.runtime.ConditionNotSatisfiedError">Condition not satisfied:
+
+!esNulo
+||
+|true
+false
+
+	at appprueba.Test.El get devuelve ok(Test.groovy:30)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
